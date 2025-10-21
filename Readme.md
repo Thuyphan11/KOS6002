@@ -1,3 +1,5 @@
+이것은 리드미입니다.
+나는 판투이입니다.
 # Make a github id and clone
 
 # cmdstanpy install and setup
